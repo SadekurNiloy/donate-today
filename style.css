@@ -45,6 +45,7 @@ a {
 /** Donate Today **/
 .donate-today {
     text-align: center;
+    margin-bottom: 50px;
 }
 .donate-text {
     text-align: center;
@@ -81,4 +82,37 @@ a {
 }
 .donate-last-link:hover {
     background-color: #3498db;
+}
+
+/** Donate Plan Area **/
+.donate-plan-text {
+    text-align: center;
+}
+.donate-plan-text h1 {
+    font-size: 50px;
+}
+.flexible-container {
+    display: flex;
+    margin: 30px 0;
+}
+.left-area {
+    background-color: #f7f1e3;
+    width: 30%;
+    margin: 0 1.5%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.middle-area {
+    background-color: #c8d6e5;
+    width: 30%;
+    margin: 0 1.5%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.right-area {
+    background-color: #f8c291;
+    width: 30%;
+    margin: 0 1.5%;
+    padding: 10px;
+    border-radius: 10px;
 }
