@@ -173,3 +173,18 @@ a {
     font-size: 18px;
     border-radius: 10px;
 }
+/**footer-area added**/
+.footer-area {
+    text-align: center;
+    background-color: black;
+    color: #ffffff;
+    padding: 10px 0;
+}
+.footer-area h2 {
+    font-size: 40px;
+    margin: 0;
+}
+.footer-area p {
+    font-size: 18px;
+    margin: 0;
+}
