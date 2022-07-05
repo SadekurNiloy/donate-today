@@ -135,3 +135,41 @@ a {
     height: 400px;
     border-radius: 10px;
 }
+/** update-area **/
+.update {
+    margin: 50px 0;
+}
+.top-text {
+    text-align: center;
+}
+.top-text h2 {
+    font-size: 40px;
+}
+.top-text p {
+    font-size: 18px;
+}
+.bottom-mail {
+    background-color: #ffeaa7;
+    text-align: center;
+    padding: 40px 0;
+    display: flex;
+}
+.mail {
+    width: 100%;
+    margin: auto;
+}
+.mail input[type=email] {
+    background-color: #b2bec3;
+    padding: 10px 40px;
+    border: none;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.mail input[type=submit] {
+    background-color: tomato;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border: none;
+    font-size: 18px;
+    border-radius: 10px;
+}
