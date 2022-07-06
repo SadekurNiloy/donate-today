@@ -72,6 +72,34 @@ a {
     box-sizing: border-box;
     padding: 10px 20px;
 }
+.ammout h2:nth-child(1):hover {
+    color: tomato;
+    border: 2px solid tomato;
+    background-color: #ffcccc;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+.ammout h2:nth-child(3):hover {
+    color: tomato;
+    border: 2px solid tomato;
+    background-color: #ffcccc;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+.ammout h2:nth-child(4):hover {
+    color: tomato;
+    border: 2px solid tomato;
+    background-color: #ffcccc;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+.ammout h2:nth-child(5):hover {
+    color: tomato;
+    border: 2px solid tomato;
+    background-color: #ffcccc;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
 .other-ammount {
     text-align: center;
     padding: 10px;
