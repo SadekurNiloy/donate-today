@@ -91,6 +91,9 @@ a {
 .donate-plan-text h2 {
     font-size: 40px;
 }
+.donate-plan-text p {
+    font-size: 18px;
+}
 .flexible-container {
     display: flex;
     margin: 30px 0;
@@ -102,6 +105,9 @@ a {
     padding: 10px;
     border-radius: 10px;
 }
+.left-area p {
+    font-size: 18px;
+}
 .middle-area {
     background-color: #c8d6e5;
     width: 30%;
@@ -109,12 +115,18 @@ a {
     padding: 10px;
     border-radius: 10px;
 }
+.middle-area p {
+    font-size: 18px;
+}
 .right-area {
     background-color: #f8c291;
     width: 30%;
     margin: 0 1.5%;
     padding: 10px;
     border-radius: 10px;
+}
+.right-area p {
+    font-size: 18px;
 }
 /** Lives-depend area **/
 .live-depend {
@@ -129,6 +141,9 @@ a {
 }
 .half-width h2 {
     font-size: 40px;
+}
+.half-width p {
+    font-size: 18px;
 }
 .half-width img {
     width: 100%;
