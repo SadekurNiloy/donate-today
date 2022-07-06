@@ -244,11 +244,11 @@ table td, th {
     color: #ffffff;
     padding: 10px 0;
 }
-.footer-area h2 {
-    font-size: 40px;
-    margin: 0;
+.footer-link {
+    display: flex;
 }
 .footer-area p {
     font-size: 18px;
     margin: 0;
+    padding: 10px 0;
 }
