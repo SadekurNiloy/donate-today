@@ -215,27 +215,26 @@ table td, th {
 .bottom-mail {
     background-color: #ffeaa7;
     text-align: center;
-    padding: 40px 0;
-    display: flex;
+    padding: 40px 0;  
 }
-.mail {
-    width: 100%;
-    margin: auto;
+form {
+    text-align: center;
 }
-.mail input[type=email] {
+form input[type=email] {
     background-color: #b2bec3;
     padding: 10px 40px;
     border: none;
     font-size: 18px;
     border-radius: 10px;
 }
-.mail input[type=submit] {
+form input[type=submit] {
     background-color: tomato;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border: none;
     font-size: 18px;
     border-radius: 10px;
+    cursor: pointer;
 }
 /**footer-area added**/
 .footer-area {
