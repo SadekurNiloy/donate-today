@@ -246,6 +246,10 @@ form input[type=submit] {
 .footer-link {
     display: flex;
 }
+.last-link {
+    margin-left: 10px;
+    background-image: linear-gradient(#D6A2E8, #FC427B) 
+}
 .footer-area p {
     font-size: 18px;
     margin: 0;
